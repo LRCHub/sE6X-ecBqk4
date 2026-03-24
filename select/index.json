@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Crazy For You",
+  "base_artist": "Marina Saito",
+  "createdAt": "2026-03-24T08:36:21.823045Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy For You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/01_Crazy_For_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy For You - Live at Hotel Cafe",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/02_Crazy_For_You_-_Live_at_Hotel_Cafe_Adele.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Crazy For You But) Not That Crazy",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/03_(Crazy_For_You_But)_Not_That_Crazy_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crazy for You",
+      "artist": "Best Coast",
+      "has_synced": true,
+      "path": "select/04_Crazy_for_You_Best_Coast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy For You",
+      "artist": "New Found Glory",
+      "has_synced": false,
+      "path": "select/05_Crazy_For_You_New_Found_Glory.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy for You",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/06_Crazy_for_You_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy for You",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/07_Crazy_for_You_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Crazy For You (Remix)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/08_Crazy_For_You_(Remix)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy for You",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/09_Crazy_for_You_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Crazy For You",
+      "artist": "Alexia",
+      "has_synced": true,
+      "path": "select/10_Crazy_For_You_Alexia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crazy for You",
+      "artist": "Slowdive",
+      "has_synced": false,
+      "path": "select/11_Crazy_for_You_Slowdive.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crazy For You",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/12_Crazy_For_You_Adele.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Crazy for You (Live)",
+      "artist": "Adele",
+      "has_synced": false,
+      "path": "select/13_Crazy_for_You_(Live)_Adele.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy For You",
+      "artist": "Slowdive",
+      "has_synced": false,
+      "path": "select/14_Crazy_For_You_Slowdive.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Crazy For Your Love",
+      "artist": "Exile",
+      "has_synced": false,
+      "path": "select/15_Crazy_For_Your_Love_Exile.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Crazy For Christmas (feat. Bonnie McKee)",
+      "artist": "Lindsey Stirling",
+      "has_synced": true,
+      "path": "select/16_Crazy_For_Christmas_(feat._Bonnie_McKee)_Lindsey_Stirling.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "crazy for you",
+      "artist": "Marina Saito",
+      "has_synced": false,
+      "path": "select/pl_01_crazy_for_you_Marina_Saito.txt"
+    }
+  ]
+}
